@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Aly Murry Darmoko  
+NIU : 473092
+Sesi : SENIN  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
